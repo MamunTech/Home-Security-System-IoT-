@@ -1,0 +1,1 @@
+This is a automated home system.This system integreated with Door lock security system integreated wiht GPRS 

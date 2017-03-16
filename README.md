@@ -1,1 +1,1 @@
-This is a automated home system.This Door lock security system integreated wiht GPRS 
+This is a automated home system.This Door lock security system integreated wiht GPRS.this is an IoT system.
